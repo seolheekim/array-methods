@@ -34,4 +34,4 @@ mixedNums.sort();
 
 mixedWords.sort();
 
-
+var notFruit = fruitCollection.splice(1, 3);
