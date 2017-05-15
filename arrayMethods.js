@@ -36,4 +36,4 @@ mixedWords.sort();
 
 var notFruit = fruitCollection.splice(1, 3);
 
-gemBox.splice(5, 12);
+gemBox.splice(5, 7, 'Sapphire');
