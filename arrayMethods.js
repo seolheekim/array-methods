@@ -40,4 +40,4 @@ gemBox.splice(5, 7, 'Sapphire');
 
 upToTen.splice(2, 0, 3, 4, 5, 6, 7, 8);
 
-
+brownOnly.splice(1, 5, "brown", "brown", "brown");
